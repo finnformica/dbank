@@ -23,7 +23,7 @@ dfk --version
 Clone the repo. 
 
 ```bash
-git clone INSERT_REPO_URL
+git clone https://github.com/finnformica/dbank.git
 ```
 
 To start the app use the following commands:
