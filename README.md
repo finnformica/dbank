@@ -1,6 +1,6 @@
 # dbank
 
-A simple compounding bank app following a tutorial by Angela Yu
+A simple compounding bank app following a tutorial by Angela Yu.
 
 ## Dependencies
 
@@ -43,7 +43,7 @@ npm start
 
 Which will start a server at `http://localhost:8080`, proxying API requests to the replica at port 8000.
 
-For more information visit `https://internetcomputer.org/docs/current/developer-docs/quickstart/hello10mins`.
+For more information visit `https://internetcomputer.org/docs/current/developer-docs/quickstart/hello10mins`
 
 ## Features
 
