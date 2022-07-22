@@ -12,7 +12,7 @@ actor DBank {
     // Debug.print(debug_show(currentValue));
   };
 
-  public func withdrawl(amount: Float) {
+  public func withdraw(amount: Float) {
     let tempValue: Float = currentValue - amount;
     if(tempValue >= 0) {
       currentValue -= amount;
